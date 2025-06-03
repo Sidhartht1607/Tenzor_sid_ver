@@ -6,7 +6,7 @@ Installation and Setup Instructions
 
 Welcome to the GitHub repository for our LinkedIn Chrome Extension! Follow these steps to get the project up and running on your local machine. 
 
-💡 Purpose
+💡 So what is Tenzor??? Purpose
 
 This project aims to empower professionals, job seekers, and lifelong learners to capture valuable LinkedIn insights in real-time—without distraction or friction.
 
