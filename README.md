@@ -42,27 +42,27 @@ Step 1: Clone the Repository
 
 First, clone the repository to your local machine:
 
-git clone https://github.com/yourusername/yourprojectname.git
-cd yourprojectname
+    git clone https://github.com/yourusername/yourprojectname.git
+    cd yourprojectname
 
 Step 2: Set Up Python Environment
 
 It's recommended to use a virtual environment for Python projects to avoid conflicts with other package versions. You can set up a virtual environment by running:
 
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 Step 3: Install Dependencies
 
 Install the project dependencies by running:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Step 4: Run the Backend
 
 Activate the Flask server to handle backend processes:
 
-python getdata.py
+    python getdata.py
 
 Ensure that the server is running without errors before proceeding.
 Step 5: Load the Chrome Extension
